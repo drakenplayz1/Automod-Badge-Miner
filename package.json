@@ -1,0 +1,14 @@
+{
+  "name": "badgemine-bot",
+  "version": "1.0.0",
+  "description": "A one-file Discord bot for AutoMod badge mining",
+  "main": "badgemine-bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Draken",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
