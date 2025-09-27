@@ -16,7 +16,7 @@
 ## ⚙️ How to Use
 
 1. **Download or clone** this repository.  
-2. Open `badgemine-bot.js` and set:  
+2. Open `index.js` and set:  
    - `TOKEN` → Your bot token  
    - `PREFIX` → Command prefix (default `!`)  
    - `ALLOWED_USERS` → Your Discord ID  
