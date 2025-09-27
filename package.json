@@ -2,7 +2,7 @@
   "name": "badgemine-bot",
   "version": "1.0.0",
   "description": "A one-file Discord bot for AutoMod badge mining",
-  "main": "badgemine-bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
