@@ -28,7 +28,7 @@
 
 ## 🛠️ Technical Info
 
-- ![discord](https://img.shields.io/badge/Library-Djs%20xxx-blue)
+- ![discord](https://img.shields.io/badge/Library-Disord.js%20xxx-blue)
 - ![Language](https://img.shields.io/badge/Lang-NodeJS%2020+-blue)
 
 ---
