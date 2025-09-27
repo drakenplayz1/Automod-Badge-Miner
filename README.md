@@ -29,7 +29,7 @@
 ## 🛠️ Technical Info
 
 - Built with **discord.js v14**  
-- **Node.js 20+ recommended**  
+- ![Language](https://img.shields.io/badge/Lang-NodeJS%2020+-red)
 - Only supports **Community-enabled servers**  
 
 ---
