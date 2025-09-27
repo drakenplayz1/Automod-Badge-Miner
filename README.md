@@ -28,7 +28,6 @@
 
 - Built with **discord.js v14**  
 - **Node.js 20+ recommended**  
-- Works on **Windows, Linux, and macOS**  
 - Only supports **Community-enabled servers**  
 
 ---
