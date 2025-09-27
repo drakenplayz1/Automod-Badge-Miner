@@ -55,8 +55,9 @@
 
 ## 📌 Support & Credit
 
-- **Support server:** `INSERT_SUPPORT_SERVER_LINK_HERE`  
-- **Owner:** `YOUR_USERNAME_OR_DISCORD_ID_HERE`  
+- **Support server:** `https://discord.gg/3zvKDmNcRZ`  
+- **Discord Username:** `draken_playz1`
+- **Discord User Id:** `702465506501722202`  
 
 > Credit the owner if you share or use this script.
 
