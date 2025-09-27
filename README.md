@@ -1,15 +1,7 @@
 # 🚀 BadgeMine Bot — AutoMod Badge Helper
 
-> A small Discord bot to help you create AutoMod rules and earn the AutoMod badge faster.
-
----
-
-## 🔹 Features
-
-- Creates **10 AutoMod rules** per run  
-- Can be used in **multiple servers**  
-- Only works for **allowed users** with **Administrator permission**  
-- Saves time and helps reach the badge quickly  
+> A simple Discord bot to help you create AutoMod rules and earn the **AutoMod badge**.  
+> ⭐ **Make sure to star this repo if you find it helpful!**
 
 ---
 
@@ -26,53 +18,29 @@
 6. Run the bot command in each server to create rules.  
    - Each run creates **10 rules**  
    - Repeat until you have **100+ rules**  
-7. Wait **24 hours** for Discord to register your progress  
+7. Wait **24 hours** for Discord to register your progress and award the **AutoMod badge**.  
 
 > Count rules manually — Discord does not show badge progress.
 
 ---
 
-## 💻 Commands
+## 🛠️ Technical Info
 
-| Command       | What it does                       |
-|---------------|-----------------------------------|
-| `!badgemine`  | Creates AutoMod rules              |
-| `!mine`       | Same as `!badgemine`               |
-| `!maxrules`   | Same as `!badgemine`               |
-
-> Only users in `ALLOWED_USERS` with Admin permission can run these.
-
----
-
-## ⚠️ Notes
-
-- Bot works only on **Community servers**  
-- Requires **Manage Server** and **Moderate Members** permissions  
-- Use only on servers you **control**  
-- Rules are for **badge progress only**, not moderation  
+- Built with **discord.js v14**  
+- **Node.js 20+ recommended**  
+- Works on **Windows, Linux, and macOS**  
+- Only supports **Community-enabled servers**  
 
 ---
 
 ## 📌 Support & Credit
 
 - **Support server:** `https://discord.gg/3zvKDmNcRZ`  
-- **Discord Username:** `draken_playz1`
+- **Discord Username:** `draken_playz1`  
 - **Discord User Id:** `702465506501722202`  
 
 > Credit the owner if you share or use this script.
 
 ---
 
-## 🛠️ Troubleshooting
-
-- **Bot not working?** Check token, prefix, allowed users, and that the bot is online  
-- **Rules not creating?** Make sure permissions and Community status are correct. Run multiple times if needed  
-
----
-
-## ✅ Disclaimer
-
-- Use at your **own risk**  
-- Bot is provided **as-is**  
-- Owner is **not responsible** for Discord penalties  
-- Follow **Discord Terms of Service**
+> ⚡ **Reminder:** Badge will appear **24 hours after creating 100+ rules.** Enjoy!
