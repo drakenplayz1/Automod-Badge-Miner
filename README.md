@@ -17,7 +17,7 @@
 3. Install dependencies: `npm install`  
 4. Start the bot: `npm start`  
 5. Invite the bot to **10 or more servers** where you have Administrator rights.  
-6. Run the bot command in each server to create rules.  
+6. Run the command `badgemine` in each server to create rules.  
    - Each run creates **10 rules**  
    - Repeat until you have **100+ rules**  
 7. Wait **24 hours** for Discord to register your progress and award the **AutoMod badge**.  
