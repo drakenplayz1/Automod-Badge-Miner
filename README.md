@@ -1,6 +1,6 @@
 # 🚀 BadgeMine Bot — AutoMod Badge Helper
 
-![BadgeMine Bot Banner](automod.png)
+![BadgeMine Bot Banner](automod.svg)
 
 > A simple Discord bot to help you create AutoMod rules and earn the **AutoMod badge**.  
 > ⭐ **Make sure to star this repo if you find it helpful!**
