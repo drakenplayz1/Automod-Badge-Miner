@@ -77,7 +77,7 @@ async function handleBadgeMine(client, message, args) {
                 { name: "Badge Progress", value: `+${createdRules.length} rules toward AutoMod badge requirement` }
             )
             .setColor(0x00ff00)
-            .setFooter({ text: `Server: ${message.guild.name}`, iconURL: message.guild.iconURL() });
+            .setFooter({ text: `github: drakenplayz1`, iconURL: message.guild.iconURL() });
 
         await message.channel.send({ embeds: [embed] });
 
